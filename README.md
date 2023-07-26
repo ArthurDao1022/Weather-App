@@ -1,6 +1,6 @@
 #Weather App README 
 
-Screenshot: 
+
 ![Screenshot 2023-07-26 105618](https://github.com/ArthurDao1022/Weather-App/assets/129889354/67c4d685-f2d4-48fb-83f8-7a62ecdcfd98)
 
 
