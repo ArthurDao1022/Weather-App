@@ -1,5 +1,14 @@
 #Weather App README 
 
+Screenshot: 
+![Screenshot 2023-07-26 105618](https://github.com/ArthurDao1022/Weather-App/assets/129889354/67c4d685-f2d4-48fb-83f8-7a62ecdcfd98)
+
+
+
+
+
+
+
 Overview
 This Weather App project demonstrates my proficiency in HTML, CSS, and JavaScript. The application is designed to provide real-time weather information in Fahrenheit for any city in the world using data retrieved from the OpenWeather API. I developed this application with the assistance of a YouTube tutorial by GreatStack.
 
@@ -49,6 +58,6 @@ Temperature in Fahrenheit: The temperature is displayed in Fahrenheit to cater t
 - Author: Arthur Dao
 
 
-![Screenshot 2023-07-26 105618](https://github.com/ArthurDao1022/Weather-App/assets/129889354/67c4d685-f2d4-48fb-83f8-7a62ecdcfd98)
+
 
 
