@@ -14,7 +14,7 @@ This Weather App project demonstrates my proficiency in HTML, CSS, and JavaScrip
 
 a. To run the Weather App, you can either:
 
-b. Access the live version online at https://github.com/ArthurDao1022/Weather-App
+b. Access the live version online at https://arthurdao1022.github.io/Weather-App/
 
 OR
 
