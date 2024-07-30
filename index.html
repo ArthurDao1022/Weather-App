@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="stylesWeather.css" rel="stylesheet">
+  <title>Weather App</title>
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+
+  <div class="container">
+    <div class="search-box">
+      <i class='bx bxs-map'></i>
+      <input type="text" placeholder="Enter a Location">
+      <button class="bx bx-search"></button>
+    </div>
+
+
+    <div class="weather-box">
+      <div class="box">
+        <div class="info-weather">
+          <div class="weather">
+            <img  src="../WeatherApp/images/clearSky.png">
+            <p class="temperature-class">32<span>°F</span></p>
+            <p class="description">Sunny with Clear Skies</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="weather-details">
+        <div class="humidity">
+          <i class='bx bx-water'></i>
+          <div class="text">
+            <div class="info-humidity">
+              <span>0%</span>
+            </div>
+            <p>Humidity</p>
+          </div>
+        </div>
+
+        <div class="wind">
+          <i class='bx bx-wind'></i>
+          <div class="text">
+            <div class="info-wind">
+              <span>MPH</span>
+            </div>
+            <p>Wind Speed</p>
+          </div>
+        </div>
+
+        <div class="thermometer">
+          <i class='bx bxs-thermometer'></i>
+          <div class="text">
+            <div class="info-thermometer">
+              <span>°F</span>
+            </div>
+            <p>Feels Like</p>
+          </div>
+        </div>
+
+
+      </div>
+
+      <div class="notFound">
+        <div class="box">
+          <img src="../WeatherApp/images/error-404 (1).png">
+          <p>Location was not found! Try again!</p>
+        </div>
+      </div>
+  </div>
+
+
+
+  <script src="script.js"></script>
+</body>
+</html>
